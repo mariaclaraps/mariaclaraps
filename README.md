@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Maria Clara 💖
 
 <!--
 **mariaclaraps/mariaclaraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
