@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" style="aling:center"><br>
   <img aling="center" alt="mc-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img aling="center" alt="mc-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img aling="center" alt="mc-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -19,7 +19,7 @@
 </div>
 
 ##
-<div>
+<div style="aling:center">
   <a href="https://www.instagram.com/claara.sousa?igsh=dXlmNDdib2tqcWZy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-clara-pereira-0a56a61a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
